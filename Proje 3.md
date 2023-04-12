@@ -6,7 +6,7 @@
 
 ## Cevap :
 
-* Root 5 iken 
+* Root 5 iken: 
 
               5
            /     \
